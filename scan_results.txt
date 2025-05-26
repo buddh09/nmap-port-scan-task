@@ -1,0 +1,25 @@
+# Nmap 7.94SVN scan initiated Mon May 26 21:07:51 2025 as: nmap -sS -oN scan_results.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0046s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE    SERVICE
+21/tcp  open     ftp
+22/tcp  filtered ssh
+53/tcp  open     domain
+80/tcp  open     http
+443/tcp open     https
+MAC Address: B4:3D:08:83:4F:C0 (GX International BV)
+
+Nmap scan report for 192.168.1.5
+Host is up (0.0014s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+7070/tcp open  realserver
+MAC Address: 00:45:E2:D7:42:E0 (CyberTAN Technology)
+
+Nmap scan report for 192.168.1.23
+Host is up (0.000010s latency).
+All 1000 scanned ports on 192.168.1.23 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon May 26 21:07:59 2025 -- 256 IP addresses (3 hosts up) scanned in 7.51 seconds
