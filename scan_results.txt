@@ -8,14 +8,14 @@ PORT    STATE    SERVICE
 53/tcp  open     domain
 80/tcp  open     http
 443/tcp open     https
-MAC Address: B4:3D:08:83:4F:C0 (GX International BV)
+MAC Address: A4:3D:08:83:4F:D0 (GX International BV)
 
 Nmap scan report for 192.168.1.5
 Host is up (0.0014s latency).
 Not shown: 999 filtered tcp ports (no-response)
 PORT     STATE SERVICE
 7070/tcp open  realserver
-MAC Address: 00:45:E2:D7:42:E0 (CyberTAN Technology)
+MAC Address: 00:79:2S:D7:42:S0 (CyberTAN Technology)
 
 Nmap scan report for 192.168.1.23
 Host is up (0.000010s latency).
